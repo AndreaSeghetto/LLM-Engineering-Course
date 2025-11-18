@@ -1,0 +1,56 @@
+[
+  {
+    "deal": {
+      "product_description": "The Samsung Galaxy Watch Ultra is a premium 47mm LTE Titanium smartwatch designed for both style and functionality. It features a circular display made with durable materials suitable for outdoor activities, providing GPS tracking, health monitoring, and custom apps for various needs. The robust design integrates a range of smart features including notifications, music control, and heart rate tracking, making it an ideal companion for fitness enthusiasts and tech-savvy users alike.",
+      "price": 350.0,
+      "url": "https://www.dealnews.com/Samsung-Galaxy-Watch-Ultra-47-mm-LTE-Titanium-Smartwatch-up-to-350-off-w-Trade-in-free-shipping/21663266.html?iref=rss-c142"
+    },
+    "estimate": 773.8138460593241,
+    "discount": 423.8138460593241
+  },
+  {
+    "deal": {
+      "product_description": "The Refurbished Unlocked Apple iPhone 14 Pro Max offers an impressive 256GB storage and a huge display, perfect for both media consumption and productivity. Enjoy advanced camera technology for stunning photos. This model is designed to provide a seamless user experience with 5G capabilities for faster downloads and streaming. Refurbished to high standards, it comes in various colors and can support all the latest apps from the App Store, accommodating any Apple enthusiast's needs.",
+      "price": 705.0,
+      "url": "https://www.dealnews.com/products/Apple/Unlocked-Apple-iPhone-14-Pro-Max-256-GB-Smartphone/462808.html?iref=rss-c142"
+    },
+    "estimate": 930.8824204895075,
+    "discount": 225.88242048950747
+  },
+  {
+    "deal": {
+      "product_description": "The Elegoo Mars 5 Ultra 3D Printer is a cutting-edge device designed for enthusiasts and professionals alike. It features stunning 9K resolution for ultra-fine details, alongside innovative tilt release technology for easier print removal. With smart mechanical sensors for a worry-free printing experience, this model also includes real-time monitoring capabilities via an AI camera. Designed for efficiency, it supports Wi-Fi cluster printing, allowing multiple users to connect and print seamlessly.",
+      "price": 250.0,
+      "url": "https://www.dealnews.com/Elegoo-Mars-5-Ultra-3-D-Printer-for-250-free-shipping/21782877.html?iref=rss-f1912"
+    },
+    "estimate": 442.4101617223359,
+    "discount": 192.41016172233589
+  },
+  {
+    "deal": {
+      "product_description": "This Hisense QD6 Series 75QD6QF Smart TV offers an immersive viewing experience with its 75-inch 4K HDR QLED display. It features Dolby Vision, HDR 10+, Dolby Atmos for an enhanced audio experience, and comes with Fire TV and Alexa built-in for easy access to your favorite content. With four HDMI inputs, you'll have plenty of connectivity for all your devices.",
+      "price": 380.0,
+      "url": "https://www.dealnews.com/products/Hisense/Hisense-QD6-Series-75-QD6-QF-75-4-K-HDR-QLED-UHD-Smart-TV/495882.html?iref=rss-c142"
+    },
+    "estimate": 1103.4218903816338,
+    "discount": 723.4218903816338
+  },
+  {
+    "deal": {
+      "product_description": "The Apple MacBook Air M2 is engineered with the latest M2 chip, known for its speed and efficiency, making everyday tasks feel effortless. It boasts a stunning 13.6-inch Liquid Retina display with a resolution of 2560x1664, ensuring exceptional clarity for photos and videos. With 16GB of RAM and a 256GB SSD, this laptop accelerates performance while providing ample storage for all your files. It perfectly balances portability and power, making it a great choice for both work and play.",
+      "price": 699.0,
+      "url": "https://www.dealnews.com/products/Apple/Apple-Mac-Book-Air-M2-13-6-Laptop-2022/485880.html?iref=rss-c39"
+    },
+    "estimate": 1100.8922042270888,
+    "discount": 401.89220422708877
+  },
+  {
+    "deal": {
+      "product_description": "The Harman Kardon Aura Studio 4 Bluetooth Speaker combines stunning design with powerful audio capabilities. It features 360-degree room-filling audio and is equipped with a 5.2-inch subwoofer for rich bass sounds. The speaker also includes diamond-effect ambient lighting, adding an eye-catching aesthetic to any room. With the ability to connect multiple mobile devices wirelessly, this speaker offers both convenience and superior sound quality.",
+      "price": 150.0,
+      "url": "https://www.dealnews.com/products/Harman-Kardon/Harman-Kardon-Aura-Studio-4-Bluetooth-Speaker/495066.html?iref=rss-c142"
+    },
+    "estimate": 383.1183484763739,
+    "discount": 233.1183484763739
+  }
+]
